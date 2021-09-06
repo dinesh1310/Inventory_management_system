@@ -1,0 +1,244 @@
+{
+  
+    "cs158":{
+      "name": "dinesh",
+      "reg_no": "cs158",
+      "phone": "9955226633",
+      "dep": "cse",
+      "cgpa": "9.36"
+    },
+	
+	"cs152" : {
+      "name": "dhaniesh",
+      "reg_no": "cs152",
+      "phone": "9632587412",
+      "dep": "cse",
+      "cgpa": "9.43"
+    },
+	
+    "it251" :	{
+      "name": "arish",
+      "reg_no": "it251",
+      "phone": "9682581412",
+      "dep": "it",
+      "cgpa": "8.20"
+    },
+	
+	"mt210" : {
+      "name": "cibi",
+      "reg_no": "mt210",
+      "phone": "9633699631",
+      "dep": "mtrs",
+      "cgpa": "8.55"
+    },
+	
+	"it101" : {
+      "name": "john",
+      "reg_no": "it101",
+      "phone": "9632515412",
+      "dep": "it",
+      "cgpa": "9.85"
+    },
+	
+	"ct145" : {
+      "name": "vignesh",
+      "reg_no": "ct145",
+      "phone": "9631407412",
+      "dep": "ct",
+      "cgpa": "9.65"
+    },
+	
+	"cs210" : {
+      "name": "raghul",
+      "reg_no": "cs210",
+      "phone": "9632145782",
+      "dep": "cse",
+      "cgpa": "7.43"
+    },
+	
+  "ee130" : 	{
+      "name": "jayabalaji",
+      "reg_no": "ee130",
+      "phone": "9630007412",
+      "dep": "eee",
+      "cgpa": "7.20"
+    },
+	
+	"fd125" : {
+      "name": "swetha",
+      "reg_no": "fd125",
+      "phone": "9632511112",
+      "dep": "food",
+      "cgpa": "9.13"
+    },
+	
+	"fd133" : {
+      "name": "shanju",
+      "reg_no": "fd133",
+      "phone": "9632587141",
+      "dep": "food",
+      "cgpa": "9.10"
+    },
+	
+	"cs154" : {
+      "name": "dhanush",
+      "reg_no": "cs154",
+      "phone": "9631017412",
+      "dep": "cse",
+      "cgpa": "9.34"
+    },
+	
+	"191ec112" : {
+      "name": "naveen",
+      "reg_no": "191ec112",
+      "phone": "9632587102",
+      "dep": "ece",
+      "cgpa": "7.21"
+    },
+	
+  "mc251" : 	{
+      "name": "anu",
+      "reg_no": "mc251",
+      "phone": "9874563210",
+      "dep": "mech",
+      "cgpa": "9.23"
+    },
+	
+	"tx200"  : {
+      "name": "priya",
+      "reg_no": "tx200",
+      "phone": "9632587002",
+      "dep": "txt",
+      "cgpa": "9.00"
+    },
+	
+	"ft182" : {
+      "name": "mcaly",
+      "reg_no": "ft182",
+      "phone": "9163254780",
+      "dep": "fash",
+      "cgpa": "6.43"
+    },
+	
+	"ft146" : {
+      "name": "deepak",
+      "reg_no": "ft146",
+      "phone": "9632544441",
+      "dep": "fash",
+      "cgpa": "8.43"
+    },
+	
+	"cb11" : {
+      "name": "raghav",
+      "reg_no": "cb111",
+      "phone": "9632580412",
+      "dep": "csbs",
+      "cgpa": "9.93"
+    },
+	
+	"cs250" : {
+      "name": "shivani",
+      "reg_no": "cs250",
+      "phone": "9632512412",
+      "dep": "cse",
+      "cgpa": "8.03"
+    },
+	
+	"ee152" : {
+      "name": "allen",
+      "reg_no": "ee152",
+      "phone": "9772587412",
+      "dep": "eee",
+      "cgpa": "6.43"
+    },
+	
+  "ct250" : 	{
+      "name": "anish",
+      "reg_no": "ct250",
+      "phone": "9631312412",
+      "dep": "ct",
+      "cgpa": "9.03"
+    },
+	
+	"ft112" : {
+      "name": "keerthana",
+      "reg_no": "ft112",
+      "phone": "9600587412",
+      "dep": "fash",
+      "cgpa": "8.88"
+    },
+	
+	"mc105" : {
+      "name": "alan",
+      "reg_no": "mc105",
+      "phone": "9999900000",
+      "dep": "mech",
+      "cgpa": "8.23"
+    },
+	
+	"mt452" : {
+      "name": "walker",
+      "reg_no": "mt452",
+      "phone": "9632517412",
+      "dep": "mtrs",
+      "cgpa": "9.13"
+    },
+	
+	"fd172"  : {
+      "name": "jangra",
+      "reg_no": "fd172",
+      "phone": "9632533412",
+      "dep": "food",
+      "cgpa": "9.45"
+    },
+	
+	"tx152" : {
+      "name": "rena",
+      "reg_no": "tx152",
+      "phone": "9777777412",
+      "dep": "txt",
+      "cgpa": "9.35"
+    },
+	
+	"cb192" : {
+      "name": "ashish",
+      "reg_no": "cb192",
+      "phone": "9632587003",
+      "dep": "csbs",
+      "cgpa": "6.43"
+    },
+	
+	"fd162" : {
+      "name": "jayandhan",
+      "reg_no": "fd162",
+      "phone": "7632587412",
+      "dep": "food",
+      "cgpa": "5.43"
+    },
+	
+	"bt222" : {
+      "name": "praveen",
+      "reg_no": "bt222",
+      "phone": "9611533412",
+      "dep": "bio",
+      "cgpa": "9.83"
+    },
+	
+	"cv202" : {
+      "name": "joshua",
+      "reg_no": "cv202",
+      "phone": "8832587412",
+      "dep": "civil",
+      "cgpa": "9.63"
+    },
+	
+	"tx202" : {
+      "name": "elon",
+      "reg_no": "tx202",
+      "phone": "8832187412",
+      "dep": "txt",
+      "cgpa": "7.23"
+    }
+	
+	 
+}
